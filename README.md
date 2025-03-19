@@ -164,3 +164,13 @@ Among them, a preliminary classification of tracks types shows that there are ab
 | Translated                             | 3238               |
 | Single outed lyrics page               | 48                 |
 | Lyrics with unknown translator         | 25                 |
+
+## 1.2 Number of Touhou arrangment based on Zun's Original Game/Work
+## 1.3 Yearly statistics of Touhou doujin music 
+## 1.4 Popularity of Touhou doujin music by platform
+## 1.5 Other Touhou doujin music visualization
+# 2. What are the different platform for Touhou doujin music
+## 2.1 History of TLMC (Touhou lossless music collection)
+## 2.2 Other software of Touhou doujin music
+## 2.3 Touhou music on sosial media platform
+# 3 Copyright and distrubution of Touhou doujin music
