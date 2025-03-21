@@ -3,6 +3,7 @@
 ## Note
 Original post: https://www.bilibili.com/opus/373298177753754782
 There are tons of graph, here i only briefly translated them and put into table, you should look at the original graph to see the visual
+**This docs is WIP**
 
 # 1. Status of Touhou Doujin Music
 ## 1.1 How many doujin music does Touhou have?
